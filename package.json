@@ -1,0 +1,15 @@
+{
+  "name": "hardhat-edge-android",
+  "version": "1.0.0",
+  "description": "Natively run Hardhat on Android/Termux ARM64 via pre-compiled Gold Master binaries.",
+  "main": "index.js",
+  "bin": {
+    "hardhat-edge-android": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["hardhat", "android", "termux", "arm64", "web3"],
+  "author": "Scott Charles Murrison",
+  "license": "MIT"
+}
